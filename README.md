@@ -1,18 +1,26 @@
-# Hello World! Barracuda Here👋
+<h1 align="center">Hello World!! Barracuda Here 👋</h1>
 
----
+###
+
+<h5 align="center">🎓 Digital Business & Computer Science</h5>
+
+###
+
+<h2 align="center">Social Media</h2>
+
+###
 
 <div align="center">
   <a href="https://discord.com/users/468841358283636756" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KeanBarracuda.KeanBarracuda&"  />
-</div>
+<h2 align="center">Tech Stack</h2>
 
 ###
 
@@ -52,8 +60,6 @@
 
 ###
 
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeanBarracuda/KeanBarracuda/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeanBarracuda/KeanBarracuda/output/pacman-contribution-graph.svg">
@@ -61,8 +67,6 @@
 </picture>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/KeanBarracuda/KeanBarracuda/output/snake.svg" alt="Snake animation" />
 
