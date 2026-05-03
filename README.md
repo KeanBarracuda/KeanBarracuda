@@ -1,6 +1,6 @@
-<p align="center">Hello World! Barracuda Here👋</p>
+# Hello World! Barracuda Here👋
 
-###
+---
 
 <div align="center">
   <a href="https://discord.com/users/468841358283636756" target="_blank">
