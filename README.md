@@ -1,8 +1,21 @@
-# 💫 About Me:
-Hello World! Barracuda Here 👋
+<p align="center">Hello World! Barracuda Here👋</p>
 
+###
 
-# 💻 Tech Stack:
+<div align="center">
+  <a href="https://discord.com/users/468841358283636756" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KeanBarracuda.KeanBarracuda&"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -36,15 +49,21 @@ Hello World! Barracuda Here 👋
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KeanBarracuda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KeanBarracuda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KeanBarracuda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
----
-[![](https://komarev.com/ghpvc/?username=KeanBarracuda&icon=0&color=4)](https://visitcount.itsvg.in)
+<br clear="both">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeanBarracuda/KeanBarracuda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeanBarracuda/KeanBarracuda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KeanBarracuda/KeanBarracuda/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/KeanBarracuda/KeanBarracuda/output/snake.svg" alt="Snake animation" />
+
+###
